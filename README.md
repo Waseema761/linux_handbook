@@ -89,6 +89,14 @@ As a DevOps engineer, you automate the entire server setup including users, perm
 ---
 
 # 📘 **Level 1 – Basic (Foundational Skills)**  
+
+ level-1-basic/
+├── users-and-groups.md
+├── permissions.md
+├── packages-installation.md
+├── system-info.md
+└── linux-basic-commands.md
+
 ### ✔ Users, Groups, Permissions, Packages, System Info , linux basic commands
 --> [linux basic commanmds](level-1-basic/linux-basic-commands.md)
 - 👉 [Users & Groups Setup](level-1-basic/users-and-groups.md)  
