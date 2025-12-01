@@ -3,8 +3,16 @@
 ## Update system packages
 sudo apt update
 
-## Install required packages
-sudo apt install -y git nginx openjdk-11-jdk
+## Install required packages (ubuntu)
+sudo apt install -y git
+
+sudo apt install nginx
+
+sudo apt install openjdk-11-jdk
+
+## install required packeges ( amazon linux)
+sudo yum install nginx -y
+
 
 # Verify installations for git
 
