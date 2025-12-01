@@ -1,0 +1,7 @@
+#nginx webserver
+
+sudo systemctl start nginx
+
+#nginx status
+
+sudo systemctl status nginx
