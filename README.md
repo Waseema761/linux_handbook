@@ -21,16 +21,15 @@ As a DevOps engineer, you automate the entire server setup including users, perm
 
 ---
 
-# 📙 **Level 2 – Intermediate (Daily DevOps Tasks)**  
+# 📙 Level 2 – Intermediate (Daily DevOps Tasks)
 ### ✔ Cron, Shell Scripts, Logs, Monitoring
 
-- 👉 Backup Automation (Cron) *(coming soon)*  
-- 👉 Log Cleanup Script *(coming soon)*  
-- 👉 Health Check Script *(coming soon)*  
-- 👉 Service Restart Script *(coming soon)*  
-- 👉 Log Monitoring Commands *(coming soon)*  
+- 👉 [Backup Automation (Cron)](level-2-intermediate/backup-cron.sh)
+- 👉 [Log Cleanup Script](level-2-intermediate/log-cleanup.sh)
+- 👉 [Health Check Script](level-2-intermediate/health-check.sh)
+- 👉 [Service Restart Script](level-2-intermediate/service-restart.sh)
+- 👉 [Log Monitoring Commands](level-2-intermediate/logs-monitoring.md)
 
-Folders will be added here once Level 2 files are created.
 
 ---
 
