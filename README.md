@@ -92,9 +92,13 @@ As a DevOps engineer, you automate the entire server setup including users, perm
 
 level-1-basic/
 ├── users-and-groups.md
+
 ├── permissions.md
+
 ├── packages-installation.md
+
 ├── system-info.md
+
 └── linux-basic-commands.md
 
  
