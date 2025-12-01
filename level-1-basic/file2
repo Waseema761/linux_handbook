@@ -1,4 +1,4 @@
-# nginx webserver
+## nginx webserver
 
 sudo systemctl start nginx
 
