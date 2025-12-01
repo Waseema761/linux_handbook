@@ -1,0 +1,14 @@
+# systemd Service File for My Application
+
+[Unit]
+Description=My Application Service
+After=network.target
+
+[Service]
+User=waseem
+ExecStart=/usr/bin/java -jar /opt/myapp/app.jar
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
