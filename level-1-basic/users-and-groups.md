@@ -1,8 +1,11 @@
 # Users & Groups Setup
 
 sudo groupadd devteam
+
 sudo useradd -m -G devteam waseem
+
 sudo useradd -m -G devteam ali
 
 id waseem
+
 id ali
