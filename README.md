@@ -1,4 +1,4 @@
- # Linux Server Automation – Complete DevOps Project
+ # 🐧Linux Server Automation – Complete DevOps Project
 
 This repository contains a complete Linux Server Setup & Automation project designed for DevOps practical learning and real-world server administration.
 
@@ -13,7 +13,7 @@ Almost every company uses Linux servers, which is why learning Linux fundamental
 
 ---
 
-## 🧩 What is Linux?
+## 🧩 What is Linux? 🐧
 
 Linux is an **operating system (OS)** like Windows or macOS, but it is:
 
