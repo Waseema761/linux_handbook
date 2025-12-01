@@ -1,7 +1,7 @@
-#nginx webserver
+# nginx webserver
 
 sudo systemctl start nginx
 
-#nginx status
+# nginx status
 
 sudo systemctl status nginx
