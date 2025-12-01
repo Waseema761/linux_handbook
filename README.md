@@ -1,12 +1,4 @@
 🐧🖥️  L I N U X   S E R V E R   A U T O M A T I O N  🖥️🐧
-  _      _                   _    
- | |    (_)                 | |   
- | |     _ _ __  _   ___  __| |___
- | |    | | '_ \| | | \ \/ /| / __|
- | |____| | | | | |_| |>  <| \__ \
- |______|_|_| |_|\__,_/_/\_\_|___/
-       L I N U X   S E R V E R
-
 
  # 🐧Linux Server Automation – Complete DevOps Project
 
