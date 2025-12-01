@@ -33,14 +33,14 @@ As a DevOps engineer, you automate the entire server setup including users, perm
 
 ---
 
-# 📗 **Level 3 – Advanced (Production-Ready Linux Admin)**  
-### ✔ systemd, SSH Hardening, LVM, Firewall, Logrotate
+# 📗 Level 3 – Advanced (Production-Ready Linux Admin)
+### ✔ systemd, SSH Security, LVM, Firewall, Logrotate
 
-- 👉 systemd Service File *(coming soon)*  
-- 👉 SSH Hardening Guide *(coming soon)*  
-- 👉 LVM Setup *(coming soon)*  
-- 👉 Firewall Rules *(coming soon)*  
-- 👉 Logrotate Config *(coming soon)*  
+- 👉 [Custom systemd Service](level-3-advanced/myapp.service)
+- 👉 [SSH Hardening Guide](level-3-advanced/ssh-hardening.md)
+- 👉 [LVM Setup for Storage Scaling](level-3-advanced/lvm-setup.md)
+- 👉 [Firewall Rules](level-3-advanced/firewall-rules.md)
+- 👉 [Logrotate Configuration](level-3-advanced/logrotate.conf)
 
 ---
 
