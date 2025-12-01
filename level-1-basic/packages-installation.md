@@ -6,7 +6,12 @@ sudo apt update
 ## Install required packages
 sudo apt install -y git nginx openjdk-11-jdk
 
-## Verify installations
+# Verify installations for git
+
 git --version
-nginx -v
+
+# Verify installations for nginx
+ nginx -v
+
+# Verify installations for java
 java -version
