@@ -11,6 +11,28 @@ As a DevOps engineer, you automate the entire setup to make the server productio
 
 ---
 
-#  Level 1 – Basic Setup (Foundational Skills)
+ # Project Structure
 
-### ✔ Create Users & Groups
+server-automation/
+│
+├── level-1-basic/
+│   ├── users-and-groups.md
+│   ├── permissions.md
+│   ├── packages-installation.md
+│   └── system-info.md
+│
+├── level-2-intermediate/
+│   ├── backup-cron.sh
+│   ├── log-cleanup.sh
+│   ├── health-check.sh
+│   ├── service-restart.sh
+│   └── logs-monitoring.md
+│
+├── level-3-advanced/
+│   ├── myapp.service
+│   ├── ssh-hardening.md
+│   ├── lvm-setup.md
+│   ├── firewall-rules.md
+│   └── logrotate.conf
+│
+└── README.md
