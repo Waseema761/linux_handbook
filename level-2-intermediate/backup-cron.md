@@ -5,7 +5,8 @@
 /usr/local/bin/backup-cron.sh
 --------------------------------
 
-#!/bin/bash
+#!/bin/bash                                                            <img width="665" height="313" alt="Screenshot 2025-11-26 at 1 24 33 PM" src="https://github.com/user-attachments/assets/d54624b3-bc0f-4ba8-a120-26ff5f4a4cce" />
+
 
 tar -czf /backups/myapp-$(date +%F).tar.gz /opt/myapp
 
